@@ -532,7 +532,7 @@ button:focus-visible {
   background: var(--cor-marrom);
   color: var(--cor-branco);
   overflow: hidden;
-  height: 180px;
+  height: 200px;
 }
 .carrossel-avaliacoes {
   overflow: hidden;
@@ -560,6 +560,8 @@ button:focus-visible {
   border: 1px solid rgba(200, 164, 90, 0.2);
   padding: 32px 24px;
   border-radius: 25px;
+  height: 180px;
+  widht: 100%;
 }
 .cartao-avaliacao .estrelas {
   color: var(--cor-dourado);
