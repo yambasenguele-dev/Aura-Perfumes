@@ -532,6 +532,7 @@ button:focus-visible {
   background: var(--cor-marrom);
   color: var(--cor-branco);
   overflow: hidden;
+  height: 180px;
 }
 .carrossel-avaliacoes {
   overflow: hidden;
