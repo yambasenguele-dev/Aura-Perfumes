@@ -554,7 +554,7 @@ button:focus-visible {
   }
 }
 .cartao-avaliacao {
-  flex: 0 0 320px;
+  flex: 0 0 280px;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(200, 164, 90, 0.2);
   padding: 22px 14px;
