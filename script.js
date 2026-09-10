@@ -56,7 +56,7 @@ async function carregarProdutos(filtro = "todos") {
                     <span class="tamanho-produto">${produto.tamanho || ""}</span>
                     <span class="preco-produto">${produto.preco || ""}</span>
                 </div>
-                <a href="https://wa.me/244943091218?text=Olá!%20Gostaria%20de%20pedir%20o%20perfume%20${encodeURIComponent(produto.nome)}." target="_blank" rel="noopener" class="botao-pedir">Pedir no WhatsApp</a>
+                <a href="https://wa.me/244938933588?text=Olá!%20Gostaria%20de%20pedir%20o%20perfume%20${encodeURIComponent(produto.nome)}." target="_blank" rel="noopener" class="botao-pedir">Pedir no WhatsApp</a>
             </div>
         `;
     grelha.appendChild(cartao);
@@ -111,13 +111,13 @@ const listaAvaliacoes = [
   {
     nome: "Patrícia Lopes",
     local: "Luanda",
-    texto: "Cheiro divinal e embalagem impecável. Recomendo a Borrifa!",
+    texto: "Cheiro divinal e embalagem impecável. Recomendo a Aura!",
     estrelas: 5,
   },
   {
     nome: "Carlos Eduardo",
     local: "Benfica",
-    texto: "Profissionalismo do início ao fim. Os melhores de Luanda.",
+    texto: "Profissionalismo do início ao fim. Os melhores de Angola.",
     estrelas: 5,
   },
   {
@@ -135,7 +135,7 @@ const listaAvaliacoes = [
   {
     nome: "Sofia Mateus",
     local: "Viana",
-    texto: "Comprei o Oud Wood e superei as expectativas. Aroma sofisticado.",
+    texto: "Comprei o Angham e superei as expectativas. Aroma sofisticado.",
     estrelas: 5,
   },
 ];
